@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
       name='desafio-1-transformations',
-      version='1.0',
+      version='1.1',
       description='''
             tranforms from scikit-learn into Watson Machine Learning
       ''',
